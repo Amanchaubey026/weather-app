@@ -36,6 +36,7 @@ weatherapp/
 ├─ README.md
 
 
+
 Dependencies:
 -@chakra-ui/icons: ^2.1.1
 -@chakra-ui/react: ^2.8.2
