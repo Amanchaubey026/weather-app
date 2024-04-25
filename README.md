@@ -19,6 +19,7 @@ Installation & Getting Started:
 
 Directory Structure
 
+<pre>
 weatherapp/
 ├─ backend/
 ├─ frontend/
@@ -34,6 +35,8 @@ weatherapp/
 ├─ .gitignore
 ├─ package.json
 ├─ README.md
+</pre>
+
 
 
 
